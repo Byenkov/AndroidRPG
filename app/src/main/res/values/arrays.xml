@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="skill_list">
+        <item>@string/legendSkill</item>
+        <item>@string/highSkill</item>
+        <item>@string/mediumSkill</item>
+        <item>@string/lowSkill</item>
+        <item>@string/badSkill</item>
+    </string-array>
+</resources>

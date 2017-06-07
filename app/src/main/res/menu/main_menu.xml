@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/roller"
+        android:title="Dice"/>
+    <item android:id="@+id/characters"
+        android:title="Characters" />
+</menu>
